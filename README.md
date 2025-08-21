@@ -115,7 +115,7 @@ Motheo Mkhwanazi;8/20/25, 3:04:05 PM;8/20/25, 4:55:26 PM;1h 51m 21s;1234@school.
 
 ```
 
-### * That’s why the script uses:
+* That’s why the script uses:
 ```python
 fullname,FirstJoin,LastLeave,Duration,studNum,Participant,Role = student.split(';')
 
